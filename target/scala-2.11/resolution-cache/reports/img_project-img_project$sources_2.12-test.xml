@@ -7,7 +7,7 @@
 		revision="0.1"
 		conf="test"
 		confs="default, compile, runtime, test, provided, optional"
-		date="20190531202332"/>
+		date="20190614061754"/>
 	<dependencies>
 		<module organisation="org.scala-sbt" name="sbt">
 			<revision name="1.2.7" status="release" pubdate="20181130193828" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/sbt/sbt" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="44">
@@ -15,7 +15,7 @@
 				<metadata-artifact status="no" details="" size="3268" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\sbt\ivy-1.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/sbt/1.2.7/sbt-1.2.7.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.7" rev-constraint-default="1.2.7" rev-constraint-dynamic="1.2.7" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="sbt" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="4812" time="484" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\sbt\srcs\sbt-1.2.7-sources.jar">
+					<artifact name="sbt" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="4812" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\sbt\srcs\sbt-1.2.7-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/sbt/1.2.7/sbt-1.2.7-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -27,7 +27,7 @@
 				<metadata-artifact status="no" details="" size="5928" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\main_2.12\ivy-1.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/main_2.12/1.2.7/main_2.12-1.2.7.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.7" rev-constraint-default="1.2.7" rev-constraint-dynamic="1.2.7" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="main_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="240848" time="703" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\main_2.12\srcs\main_2.12-1.2.7-sources.jar">
+					<artifact name="main_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="240848" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\main_2.12\srcs\main_2.12-1.2.7-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/main_2.12/1.2.7/main_2.12-1.2.7-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -63,7 +63,7 @@
 				<metadata-artifact status="no" details="" size="3592" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\scripted-sbt-redux_2.12\ivy-1.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/scripted-sbt-redux_2.12/1.2.7/scripted-sbt-redux_2.12-1.2.7.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.7" rev-constraint-default="1.2.7" rev-constraint-dynamic="1.2.7" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scripted-sbt-redux_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="12076" time="844" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\scripted-sbt-redux_2.12\srcs\scripted-sbt-redux_2.12-1.2.7-sources.jar">
+					<artifact name="scripted-sbt-redux_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="12076" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\scripted-sbt-redux_2.12\srcs\scripted-sbt-redux_2.12-1.2.7-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/scripted-sbt-redux_2.12/1.2.7/scripted-sbt-redux_2.12-1.2.7-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -87,7 +87,7 @@
 				<metadata-artifact status="no" details="" size="5314" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\actions_2.12\ivy-1.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/actions_2.12/1.2.7/actions_2.12-1.2.7.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.7" rev-constraint-default="1.2.7" rev-constraint-dynamic="1.2.7" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="actions_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="25349" time="688" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\actions_2.12\srcs\actions_2.12-1.2.7-sources.jar">
+					<artifact name="actions_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="25349" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\actions_2.12\srcs\actions_2.12-1.2.7-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/actions_2.12/1.2.7/actions_2.12-1.2.7-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -111,7 +111,7 @@
 				<metadata-artifact status="no" details="" size="3726" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\run_2.12\ivy-1.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/run_2.12/1.2.7/run_2.12-1.2.7.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.7" rev-constraint-default="1.2.7" rev-constraint-dynamic="1.2.7" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="run_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="18628" time="516" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\run_2.12\srcs\run_2.12-1.2.7-sources.jar">
+					<artifact name="run_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="18628" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\run_2.12\srcs\run_2.12-1.2.7-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/run_2.12/1.2.7/run_2.12-1.2.7-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -207,7 +207,7 @@
 				<metadata-artifact status="no" details="" size="3201" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\librarymanagement-ivy_2.12\ivy-1.2.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.2.3/librarymanagement-ivy_2.12-1.2.3.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.3" rev-constraint-default="1.2.3" rev-constraint-dynamic="1.2.3" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="librarymanagement-ivy_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="90980" time="719" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\librarymanagement-ivy_2.12\srcs\librarymanagement-ivy_2.12-1.2.3-sources.jar">
+					<artifact name="librarymanagement-ivy_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="90980" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\librarymanagement-ivy_2.12\srcs\librarymanagement-ivy_2.12-1.2.3-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.2.3/librarymanagement-ivy_2.12-1.2.3-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -266,7 +266,7 @@
 				<metadata-artifact status="no" details="" size="3307" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\logic_2.12\ivy-1.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/logic_2.12/1.2.7/logic_2.12-1.2.7.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.7" rev-constraint-default="1.2.7" rev-constraint-dynamic="1.2.7" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="logic_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="5452" time="484" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\logic_2.12\srcs\logic_2.12-1.2.7-sources.jar">
+					<artifact name="logic_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="5452" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\logic_2.12\srcs\logic_2.12-1.2.7-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/logic_2.12/1.2.7/logic_2.12-1.2.7-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -278,7 +278,7 @@
 				<metadata-artifact status="no" details="" size="3721" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt.ivy\ivy\ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.xml" searched="false" origin-is-local="false" origin-location="file:/C:/Users/raval/.sbt/preloaded/org.scala-sbt.ivy/ivy/2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310/ivys/ivy.xml"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310" rev-constraint-default="2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310" rev-constraint-dynamic="2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="ivy" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="886994" time="4687" location="C:\Users\raval\.ivy2\cache\org.scala-sbt.ivy\ivy\srcs\ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310-sources.jar">
+					<artifact name="ivy" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="886994" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt.ivy\ivy\srcs\ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -302,7 +302,7 @@
 				<metadata-artifact status="no" details="" size="2576" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\scripted-plugin_2.12\ivy-1.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/scripted-plugin_2.12/1.2.7/scripted-plugin_2.12-1.2.7.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.7" rev-constraint-default="1.2.7" rev-constraint-dynamic="1.2.7" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scripted-plugin_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="632" time="640" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\scripted-plugin_2.12\srcs\scripted-plugin_2.12-1.2.7-sources.jar">
+					<artifact name="scripted-plugin_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="632" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\scripted-plugin_2.12\srcs\scripted-plugin_2.12-1.2.7-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/scripted-plugin_2.12/1.2.7/scripted-plugin_2.12-1.2.7-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -314,7 +314,7 @@
 				<metadata-artifact status="no" details="" size="3700" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\testing_2.12\ivy-1.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/testing_2.12/1.2.7/testing_2.12-1.2.7.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.7" rev-constraint-default="1.2.7" rev-constraint-dynamic="1.2.7" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="testing_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="13617" time="1375" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\testing_2.12\srcs\testing_2.12-1.2.7-sources.jar">
+					<artifact name="testing_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="13617" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\testing_2.12\srcs\testing_2.12-1.2.7-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/testing_2.12/1.2.7/testing_2.12-1.2.7-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -326,7 +326,7 @@
 				<metadata-artifact status="no" details="" size="2553" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\test-agent\ivy-1.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.2.7/test-agent-1.2.7.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.7" rev-constraint-default="1.2.7" rev-constraint-dynamic="1.2.7" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="test-agent" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="6728" time="1187" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\test-agent\srcs\test-agent-1.2.7-sources.jar">
+					<artifact name="test-agent" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="6728" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\test-agent\srcs\test-agent-1.2.7-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.2.7/test-agent-1.2.7-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -362,7 +362,7 @@
 				<metadata-artifact status="no" details="" size="4612" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\main-settings_2.12\ivy-1.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/main-settings_2.12/1.2.7/main-settings_2.12-1.2.7.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.7" rev-constraint-default="1.2.7" rev-constraint-dynamic="1.2.7" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="main-settings_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="40558" time="1391" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\main-settings_2.12\srcs\main-settings_2.12-1.2.7-sources.jar">
+					<artifact name="main-settings_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="40558" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\main-settings_2.12\srcs\main-settings_2.12-1.2.7-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/main-settings_2.12/1.2.7/main-settings_2.12-1.2.7-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -386,7 +386,7 @@
 				<metadata-artifact status="no" details="" size="2854" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\core-macros_2.12\ivy-1.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/core-macros_2.12/1.2.7/core-macros_2.12-1.2.7.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.7" rev-constraint-default="1.2.7" rev-constraint-dynamic="1.2.7" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="core-macros_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="14940" time="984" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\core-macros_2.12\srcs\core-macros_2.12-1.2.7-sources.jar">
+					<artifact name="core-macros_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="14940" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\core-macros_2.12\srcs\core-macros_2.12-1.2.7-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/core-macros_2.12/1.2.7/core-macros_2.12-1.2.7-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -398,7 +398,7 @@
 				<metadata-artifact status="no" details="" size="3731" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\task-system_2.12\ivy-1.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/task-system_2.12/1.2.7/task-system_2.12-1.2.7.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.7" rev-constraint-default="1.2.7" rev-constraint-dynamic="1.2.7" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="task-system_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="9691" time="1375" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\task-system_2.12\srcs\task-system_2.12-1.2.7-sources.jar">
+					<artifact name="task-system_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="9691" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\task-system_2.12\srcs\task-system_2.12-1.2.7-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/task-system_2.12/1.2.7/task-system_2.12-1.2.7-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -434,7 +434,7 @@
 				<metadata-artifact status="no" details="" size="3306" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\tasks_2.12\ivy-1.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/tasks_2.12/1.2.7/tasks_2.12-1.2.7.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.7" rev-constraint-default="1.2.7" rev-constraint-dynamic="1.2.7" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="tasks_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="12585" time="953" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\tasks_2.12\srcs\tasks_2.12-1.2.7-sources.jar">
+					<artifact name="tasks_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="12585" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\tasks_2.12\srcs\tasks_2.12-1.2.7-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/tasks_2.12/1.2.7/tasks_2.12-1.2.7-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -446,7 +446,7 @@
 				<metadata-artifact status="no" details="" size="4610" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\command_2.12\ivy-1.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/command_2.12/1.2.7/command_2.12-1.2.7.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.7" rev-constraint-default="1.2.7" rev-constraint-dynamic="1.2.7" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="command_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="34336" time="750" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\command_2.12\srcs\command_2.12-1.2.7-sources.jar">
+					<artifact name="command_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="34336" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\command_2.12\srcs\command_2.12-1.2.7-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/command_2.12/1.2.7/command_2.12-1.2.7-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -458,7 +458,7 @@
 				<metadata-artifact status="no" details="" size="4695" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\librarymanagement-core_2.12\ivy-1.2.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.2.3/librarymanagement-core_2.12-1.2.3.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.3" rev-constraint-default="1.2.3" rev-constraint-dynamic="1.2.3" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="librarymanagement-core_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="140391" time="1203" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\librarymanagement-core_2.12\srcs\librarymanagement-core_2.12-1.2.3-sources.jar">
+					<artifact name="librarymanagement-core_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="140391" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\librarymanagement-core_2.12\srcs\librarymanagement-core_2.12-1.2.3-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.2.3/librarymanagement-core_2.12-1.2.3-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -624,7 +624,7 @@
 				<metadata-artifact status="no" details="" size="3753" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\protocol_2.12\ivy-1.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/protocol_2.12/1.2.7/protocol_2.12-1.2.7.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.7" rev-constraint-default="1.2.7" rev-constraint-dynamic="1.2.7" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="protocol_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="9818" time="703" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\protocol_2.12\srcs\protocol_2.12-1.2.7-sources.jar">
+					<artifact name="protocol_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="9818" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\protocol_2.12\srcs\protocol_2.12-1.2.7-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/protocol_2.12/1.2.7/protocol_2.12-1.2.7-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -672,7 +672,7 @@
 				<metadata-artifact status="no" details="" size="3575" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\completion_2.12\ivy-1.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/completion_2.12/1.2.7/completion_2.12-1.2.7.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.7" rev-constraint-default="1.2.7" rev-constraint-dynamic="1.2.7" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="completion_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="30205" time="1359" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\completion_2.12\srcs\completion_2.12-1.2.7-sources.jar">
+					<artifact name="completion_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="30205" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\completion_2.12\srcs\completion_2.12-1.2.7-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/completion_2.12/1.2.7/completion_2.12-1.2.7-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -758,7 +758,7 @@
 				<metadata-artifact status="no" details="" size="3326" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\collections_2.12\ivy-1.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/collections_2.12/1.2.7/collections_2.12-1.2.7.pom"/>
 				<caller organisation="img_project" name="img_project$sources_2.12" conf="test, compile, runtime" rev="1.2.7" rev-constraint-default="1.2.7" rev-constraint-dynamic="1.2.7" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="collections_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="31086" time="891" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\collections_2.12\srcs\collections_2.12-1.2.7-sources.jar">
+					<artifact name="collections_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="31086" time="0" location="C:\Users\raval\.ivy2\cache\org.scala-sbt\collections_2.12\srcs\collections_2.12-1.2.7-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/collections_2.12/1.2.7/collections_2.12-1.2.7-sources.jar"/>
 					</artifact>
 				</artifacts>
